@@ -1,6 +1,6 @@
 # Mental Maths
 While most websites are enough for me to practice mental maths,
-I wanted to be able to fully customise what I can do with it. That's
+I wanted to be able to fully customise what I can do with it to fit the secret's of mental maths exercises. That's
 the point of this.
 
 These exercises are based off [Secrets Of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.amazon.com.au/Secrets-Mental-Math-Arthur-Benjamin/dp/0307338401)
