@@ -1,7 +1,7 @@
 # Mental Maths
-While most websites are enough for me to practice mental maths,
-I wanted to be able to fully customise what I can do with it to fit the secret's of mental maths exercises. That's
-the point of this.
+While most websites are enough to just practice mental maths, they
+don't usually follow an exact guide for improving on it and are just random exercises.
+I waned to make a set of tools that actually follows a guide to getting better.
 
 These exercises are based off [Secrets Of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.amazon.com.au/Secrets-Mental-Math-Arthur-Benjamin/dp/0307338401)
 ## Installation guide
