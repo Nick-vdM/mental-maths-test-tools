@@ -7,7 +7,7 @@ These exercises are based off [Secrets Of Mental Math: The Mathemagician's Guide
 ## Installation guide
 At the moment this can only be installed on Linux/Unix systems - windows will have to install through WSL
 
-Run this from inside the main folder:
+Run this from your downloads (or whereever):
 ```
 $ git clone https://github.com/Nick-vdM/mental-maths-test-tools.git
 $ cd mental-maths-test-tools
