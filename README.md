@@ -3,7 +3,7 @@ While most websites are enough for me to practice mental maths,
 I wanted to be able to fully customise what I can do with it. That's
 the point of this.
 
-These exercises are based off
+These exercises are based off [Secrets Of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.amazon.com.au/Secrets-Mental-Math-Arthur-Benjamin/dp/0307338401)
 ## Installation guide
 Run this from inside the main folder:
 ```
