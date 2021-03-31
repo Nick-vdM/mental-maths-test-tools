@@ -1,10 +1,5 @@
 #!/usr/bin/env bash
-if pip3 list | grep -F pyinstaller 2>&1 >/dev/null; echo $?;
-    then
-        echo "Pyinstaller is already installed";
-    else
-        pip3 install pyinstaller;
-fi
+pip3 install pyinstaller
 
 pyinstaller src/addition.py --specpath spec --onefile
 pyinstaller src/subtraction.py --specpath spec --onefile
